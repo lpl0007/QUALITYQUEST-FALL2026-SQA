@@ -1,10 +1,10 @@
-# Solo SQA Fall 2026
+# Quality Quest Fall 2026
 
 ## Team
 
-**Team Name:** SoloSQA
+**Team Name:** Quality Quest
 
-**Team Member:** Lanie Louque
+**Team Members:** Lanie Louque, Fabiya Mustari, Nathan Evans
 
 ## Project
 
