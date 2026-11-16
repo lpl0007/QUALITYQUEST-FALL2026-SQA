@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pyyaml ruamel.yaml pandas
+          pip install pyyaml ruamel.yaml pandas numpy sarif-om jschema-to-python
 
       - name: Run fuzz testing
         run: |
